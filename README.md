@@ -1,1 +1,0 @@
-# la_fruta_frontend
